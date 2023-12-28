@@ -9,7 +9,7 @@
   + PDEs and Eulerian approach to optimal transport
   + Quantum Physics
 - 👯 I’m looking to collaborate on :
-  + Anything optimal transport and quantum physics
+  + Anything optimal transport, machine learning or quantum physics
 - 🤔 I’m looking for help with :
   + Optimal transport
   + Quantum physics
