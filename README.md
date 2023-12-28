@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on : 
   + Optimal transport
   + High dimensional statistics and machine learning
-  + Numerical methods
-  + Stochastic processes and applied probability
 - 🌱 I’m currently learning :
   + PDEs and Eulerian approach to optimal transport
   + Quantum Physics
