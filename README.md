@@ -1,15 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on : 
-  + Optimal transport
-  + High dimensional statistics and machine learning
-- 🌱 I’m currently learning :
-  + PDEs and Eulerian approach to optimal transport
-  + Quantum Physics
-- 👯 I’m looking to collaborate on :
-  + Anything optimal transport, machine learning or quantum physics
+  + [Optimal transport](https://github.com/istmarc/optimal-transport)
+  + [High dimensional statistics and machine learning](https://github.com/istmarc/high-dimensional-statistics)
 - 🤔 I’m looking for help with :
-  + Optimal transport
+  + Optimal transport (ML, PDEs and Eulerian approach)
   + Quantum physics
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
