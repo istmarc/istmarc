@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on : 
   + [Optimal transport](https://github.com/istmarc/optimal-transport)
   + [High dimensional statistics and machine learning](https://github.com/istmarc/high-dimensional-statistics)
+  + [Tenseur : a C++20 tensor library](https://github.com/istmarc/Tenseur)
 - 🤔 I’m looking for help with :
   + Optimal transport (ML, PDEs and Eulerian approach)
   + Quantum physics
